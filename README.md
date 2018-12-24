@@ -3,13 +3,13 @@ A Rich Presence module for Super Mario Odyssey on the Nintendo Switch!
 
 # Completed features
 
-What Kingdom you are currently in
-Time spent in Kingdoms
+What Kingdom you are currently in |
+Time spent in Kingdoms |
 Whether you are traveling on the Odyssey
 
 # Uncomplete features
 
-If you are in a sub-area or the main area of a Kingdom
+If you are in a sub-area or the main area of a Kingdom |
 The module itself
 
 # NOTE:
